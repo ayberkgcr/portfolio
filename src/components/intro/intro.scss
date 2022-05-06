@@ -3,7 +3,6 @@
 .intro {
   background-color: white;
   display: flex;
-  
 
   .left {
     flex: 0.5;
@@ -20,7 +19,7 @@
       float: right;
 
       img {
-        height: 90%;
+        height: 50%;
       }
     }
   }
@@ -48,7 +47,7 @@
 
         span {
           font-size: inherit;
-          
+
           animation: popp 6s infinite;
         }
 
