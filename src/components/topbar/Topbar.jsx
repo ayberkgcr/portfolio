@@ -1,5 +1,5 @@
 import "./topbar.scss";
-import  {Mail } from "@mui/icons-material"
+import { Mail } from "@mui/icons-material"
 import GitHubIcon from '@mui/icons-material/GitHub';
 
 export default function contact({ menuOpen, setMenuOpen }) {
