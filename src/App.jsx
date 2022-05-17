@@ -20,6 +20,8 @@ function App() {
         <Works />
 
         <Contact />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1927147177960330"
+          crossorigin="anonymous"></script>
       </div>
     </div>
   );
